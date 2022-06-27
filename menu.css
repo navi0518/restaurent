@@ -1,0 +1,62 @@
+.image {
+    background-image: url(https://media.istockphoto.com/photos/chicken-tandoor-and-salad-picture-id860428146?k=20&m=860428146&s=612x612&w=0&h=pE0Bkx0I7pHjJt65Ah0NIpgToP_SlxcSH5Yxq6UmY24=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+    background-color: transparent;
+
+}
+
+body {
+    background-position: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-size: xxx-large;
+    color: blue;
+}
+
+tbody {
+    padding-inline-start: 100%;
+    padding-inline-end: 50%;
+
+}
+
+.color {
+    color: whitesmoke;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.menu {
+    color: gold;
+}
+
+.cont {
+    color: cyan;
+}
+
+.home {
+    color: chartreuse;
+    text-align: right;
+    margin-right: 40px;
+}
+
+nav {
+    font-size: x-large;
+}
+
+a {
+    text-decoration: none;
+}
+
+.table1 {
+    margin-left: 800px;
+    position: relative;
+    bottom: 500px;
+}
+
+.color1 {
+    color: gold;
+}

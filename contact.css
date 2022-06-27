@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(227, 221, 221);
+}
+
+h1 {
+    color: rgb(161, 47, 255);
+}
+
+.color {
+    color: limegreen;
+}
+
+h2 {
+    color: yellowgreen;
+}
+
+h3 {
+    color: rgb(79, 235, 79);
+}
+
+.number {
+    color: rgb(255, 0, 0);
+}
